@@ -46,7 +46,6 @@ jobs:
     #  run: |
     #    echo "def test_1(): pass" > nothing.py
     #    pytest nothing.py
-    
    
     - name: textnow protect number
       env:
